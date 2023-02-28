@@ -19,3 +19,8 @@ git checkout
 ```
 git switch
 ```
+
+
+# Краткая инструкция по MarkDown
+
+## Цитаты
